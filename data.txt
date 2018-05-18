@@ -1,0 +1,40 @@
+New Entry
+Condition: Fair
+iPhoneVersion: 5s
+Carrier: Verizon
+Color: Silver
+Capacity: 128 GB
+User Email: bggvfd
+
+New Entry
+Condition: Excellent
+iPhoneVersion: 6s Plus
+Carrier: Other
+Color: Black
+Capacity: 32 GB
+User Email: bggvfd
+
+New Entry
+Condition: Excellent
+iPhoneVersion: 6s
+Carrier: T-Mobile
+Color: Gold
+Capacity: 256 GB
+User Email: bggvfd
+
+New Entry
+Condition: Excellent
+iPhoneVersion: 6s
+Carrier: T-Mobile
+Color: Gold
+Capacity: 256 GB
+User Email: bggvfd
+
+New Entry
+Condition: Excellent
+iPhoneVersion: 7 Plus
+Carrier: AT&T
+Color: Silver
+Capacity: 16 GB
+User Email: 
+
